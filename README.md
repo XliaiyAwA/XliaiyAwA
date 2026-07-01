@@ -1,7 +1,7 @@
-- 👋 你好你好！我是AnnEX2333！是一个无知的小孩（
+- 👋 你好你好！我是XliaiyAwA！是一个无知的小孩（
 - 我的邮箱是：XliaiyAwA@foxmail.com
 
-- 本人正在学Python和JavaScript
+- 本人正在学Python和GLSL
 
 -
 
